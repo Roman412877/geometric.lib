@@ -45,7 +45,12 @@ def perimeter(a, b, c):
 
 #History of project changes with comit hashes
 
+commit f3df49144d8f49a9a3695abed612651fd14c8b3a
+Author: Roman412877 <teftelka1377@gmail.com>
+Date:   Tue Sep 19 21:57:59 2023 +0300
 
+    the error has been fixed
+    
 commit 8d5849638529fcbea7ac6912d993e2f851ef3c9b
 Author: Roman412877 <teftelka1377@gmail.com>
 Date:   Tue Sep 19 21:44:52 2023 +0300
